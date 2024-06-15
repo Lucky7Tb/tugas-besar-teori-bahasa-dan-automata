@@ -1,0 +1,6 @@
+{
+	"subject": ["saya", "aku", "kamu", "dia", "mereka", "kami", "kalian"],
+	"predicate": ["baca", "lihat", "main", "nulis", "pakai"],
+	"object": ["bubur", "tugas", "apel", "rubik", "komik"],
+	"description": ["sekarang", "kemarin", "nanti", "lusa", "bersama"]
+}
