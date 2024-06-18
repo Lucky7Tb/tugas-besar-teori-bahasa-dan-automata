@@ -1,9 +1,9 @@
 # Tugas Besar Teori Bahasa Dan Automata
 
-**CFG** <br>
+## CFG <br>
 ![](https://github.com/Lucky7Tb/tugas-besar-teori-bahasa-dan-automata/blob/master/CFG.jpg)
 
-**FA** <br>
+## FA <br>
 ![](https://github.com/Lucky7Tb/tugas-besar-teori-bahasa-dan-automata/blob/master/FA.jpg)
 
 ## Cara menjalankan program
