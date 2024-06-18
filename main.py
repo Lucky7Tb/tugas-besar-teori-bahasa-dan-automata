@@ -16,12 +16,20 @@ def checkWordIs(word, dataset_key):
 	with open("dataset.json") as dataset:
 	    words_dataset = json.load(dataset)
 	    for value in words_dataset[dataset_key]:
-	    	if value == word:
-	    		return True
+	    	if len(value) != len(word):
+	    		continue 
+	    	index = 0
+	    	while True:
+	    		if value[index] == word[index]:
+	    			index += 1
+	    			if index == len(value):
+	    				return True
+	    		else:
+	    			break
 	    return False
 
 def checkWordType(pda, words):
-	wordType = '';
+	wordType = ''
 	for word in words.split(' '):
 		if checkWordIs(word.strip(), 'subject'):
 			pda.pop()
