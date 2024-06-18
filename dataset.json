@@ -1,6 +1,6 @@
 {
 	"subject": ["dia", "ayah", "siswa", "aku", "saya"],
-	"predicate": ["membaca", "menulis", "naik", "makan", "tidur"],
+	"predicate": ["baca", "menulis", "naik", "makan", "tidur"],
 	"object": ["buku", "surat", "sepeda", "nasi", "coklat"],
 	"description": ["mungkin", "besok", "tadi", "selalu", "sering"]
 }
