@@ -8,7 +8,7 @@
 
 ## Cara menjalankan program
 - Clone repo ini `git clone https://github.com/Lucky7Tb/tugas-besar-teori-bahasa-dan-automata`
-- Jalankan program `py main.py` dan input kalimat yang ingin di cek
+- Jalankan program dengan perintah `py main.py` dan input kalimat yang ingin di cek
 
 ## Catatan
 Daftar kata yang disupport
