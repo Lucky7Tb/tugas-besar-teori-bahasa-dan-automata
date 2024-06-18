@@ -1,6 +1,6 @@
 {
-	"subject": ["saya", "aku", "kamu", "dia", "mereka", "kami", "kalian"],
-	"predicate": ["baca", "lihat", "main", "nulis", "pakai"],
-	"object": ["bubur", "tugas", "apel", "rubik", "komik"],
-	"description": ["sekarang", "kemarin", "nanti", "lusa", "bersama"]
+	"subject": ["ibu", "ayah", "siswa", "guru", "dokter"],
+	"predicate": ["membaca", "menulis",	"naik", "makan", "tidur"],
+	"object": ["buku", "surat", "sepeda", "nasi", "coklat"],
+	"description": ["kemarin", "besok", "tadi", "tiba-tiba", "sering"]
 }
