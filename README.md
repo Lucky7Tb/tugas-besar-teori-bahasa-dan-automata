@@ -13,6 +13,6 @@
 ## Catatan
 Daftar kata yang disupport
 - S: "dia", "ayah", "siswa", "aku", "saya"
-- P: "membaca", "menulis", "naik", "makan", "tidur"
+- P: "baca", "menulis", "naik", "makan", "tidur"
 - O: "buku", "surat", "sepeda", "nasi", "coklat"
 - K: "mungkin", "besok", "tadi", "selalu", "sering"
