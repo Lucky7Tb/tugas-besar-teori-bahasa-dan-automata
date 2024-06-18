@@ -2,5 +2,5 @@
 	"subject": ["ibu", "ayah", "siswa", "guru", "dokter"],
 	"predicate": ["membaca", "menulis",	"naik", "makan", "tidur"],
 	"object": ["buku", "surat", "sepeda", "nasi", "coklat"],
-	"description": ["kemarin", "besok", "tadi", "tiba-tiba", "sering"]
+	"description": ["kemarin", "besok", "tadi", "pasti", "sering"]
 }
