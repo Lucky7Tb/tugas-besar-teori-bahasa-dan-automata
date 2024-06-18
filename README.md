@@ -1,5 +1,10 @@
 # Tugas Besar Teori Bahasa Dan Automata
 
+## Kelompok
+1. Gid Achmad Ahlul Fadli - 103012380509
+2. Ma'isy Yazid - 103012380554
+3. Lucky Tri Bhakti - 103012380500
+
 ## CFG <br>
 ![](https://github.com/Lucky7Tb/tugas-besar-teori-bahasa-dan-automata/blob/master/CFG.jpg)
 
